@@ -1,2 +1,2 @@
-# W-rfelzocken
+# Wurfelzocken
 A game of Strategy 
